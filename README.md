@@ -1,3 +1,4 @@
 # CNN Classification of HSI Dataset with Keras API
-First run **preprocess.py**, then run **train.py**,and **test.py**  
-remember to modify the function parameters according to your need  
+First run **train.py**, then run **test.py**  
+To generate classifiaction map, run**generate_predmap.py**
+Remember to modify the function parameters according to your need
